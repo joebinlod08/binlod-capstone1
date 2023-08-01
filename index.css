@@ -1,0 +1,81 @@
+* 
+.background{
+	background-image: url(https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?cs=srgb&dl=pexels-lucie-liz-3165335.jpg&fm=jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+      background-blend-mode: darken;
+}
+
+#custom-bg {
+      background:rgba(265, 265, 265, 0.6);
+      margin-top: 5rem;
+      margin-bottom: 5rem;
+      border-radius: 25px;
+
+
+}
+
+.navbar.bg-purple {
+      background-color: #7D0552;
+      background-blend-mode: lighten;
+      background: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+}
+
+
+#text-stroke {
+      color: black; 
+      text-shadow: -1px -1px 0 #FFFFFF, 1px -1px 0 #FFFFFF, -1px 1px 0 #FFFFFF, 1px 1px 0 #FFFFFF;
+      font-family: Handjet, cursive;
+      font-weight:bolder;
+      letter-spacing: 3px;
+ }
+
+ .card:hover {
+ 	transform: scale(0.8) ;
+
+ }
+
+#custom-project {
+      background:rgba(235, 235, 235, 0.3);
+      margin-top: 5rem;
+      margin-bottom: 5rem;
+      border-radius: 15px;
+
+
+}
+#card {
+      border-width: 5px;
+      border-color:#CCFFFF ;
+      background: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+      border-radius: 1rem;
+}
+
+#profile-pic {
+      border-width: 5px;
+      border-color:#CCFFFF;
+
+}
+
+.row.bg-primary {
+      border-width: 5px;
+      border-color:#CCFFFF ;
+      background: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+      border-radius: 1rem;
+      font-family: ;
+}
+
+#contact-us {
+      border-width: 5px;
+      border-color:#CCFFFF ;
+      background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);
+      border-radius: 25px;
+
+}
+
+.footer {
+      background-color: #f8f9fa;
+      padding: 20px ;
+      text-align: center;
+       background: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+    }
